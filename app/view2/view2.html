@@ -1,0 +1,24 @@
+<div ng-controller='View2Ctrl'>
+<hr/>
+	<h3 class="well text-center"> Weather forecast for {{city}}</h3>
+	
+	<div class="text-pull-right">
+		<a href="#!/">back to search</a>
+	</div>
+<hr/>
+<div>
+<h4>Days</h4><a href="#!/view2/2" id="page">2</a> | <a href="#!/view2/5" id="page" >5</a> | <a href="#!/view2/7" id="page">7</a> 
+</div>
+<div ng-repeat = 'result in weatherResult.list'>
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<h3 class="panel-title">{{toDate(result.dt) | date}}</h3>
+	</div>
+	<div class="panel-body">
+		Daytime Temp : {{convertTOCel(result.temp.day)}}C
+		
+	</div>
+	</div>
+	
+</div>
+</div>

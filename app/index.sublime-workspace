@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"re",
+				"removeContact"
+			],
+			[
+				"c",
+				"contact"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"edit",
+				"editFormSubmit"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"m",
+				"mobile"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"h",
+				"home"
+			],
+			[
+				"w",
+				"work"
+			],
+			[
+				"mo",
+				"mobile"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"addF",
+				"showAddForm"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"home",
+				"home_phone"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"fire",
+				"firebaseArray"
+			],
+			[
+				"di",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wolf/Desktop/NaturalLanguageForm/css/component.css",
+		"/home/wolf/Desktop/NaturalLanguageForm/css/default.css",
+		"/home/wolf/Desktop/app.css",
+		"/home/wolf/git/weather_apps/weather1/angular-seed/app/index.html",
+		"/home/wolf/Desktop/NaturalLanguageForm/index.html",
+		"/home/wolf/Desktop/index.html",
+		"/home/wolf/git/contactApp/app/app/index.html",
+		"/home/wolf/git/contactApp/app/app/app.css",
+		"/home/wolf/git/contactApp/app/app/contacts/contacts.js",
+		"/home/wolf/git/contactApp/app/app/app.js",
+		"/home/wolf/git/contactApp/app/app/contacts/contacts_test.js",
+		"/home/wolf/git/contactApp/app/app/contacts/contacts.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div class=\"row\">\n<div class=\"large-10 columns\">\n	<h3>Your Contacts</h3>\n	<table>\n		<thead>\n			<tr>\n				<th width=\"200px\">Name</th>\n				<th width=\"200px\">Company</th>\n				<th width=\"25%\">Email</th>\n				<th width=\"25%\">Actions</th>\n			</tr>\n		</thead>\n	<tbody>\n	<tr ng-repeat ='contact in contacts'>\n		<td><a href=\"#\">{{contact.name}}</td>\n		<td>{{contact.company}}</td>\n		<td>{{contact.email}}</td>\n		<td><a class=\"button tiny\" ng-click='showEditForm'>Edit</a>\n		<a class=\"button tiny alert\">Delete</a></td>\n	</tr>\n	</tbody>\n	</table>\n</div>\n<div class=\"small-12 large-2 columns\">\n	<a class=\"button large\">+</a>\n</div>	\n	\n</div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
